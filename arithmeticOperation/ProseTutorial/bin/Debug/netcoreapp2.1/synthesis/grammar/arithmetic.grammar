@@ -1,0 +1,16 @@
+﻿using System.Collections.Generic;
+
+using semantics ProseTutorial.Semantics;
+using learners ProseTutorial.WitnessFunctions;
+
+language Arithmetic;
+
+@input List<int> v;
+
+int operate := Multiply(program, program) | Add(program, program) | Divide(program, program);
+
+@start int program := element | operate;
+
+int element := ElementAt(v,k);
+
+int k; 
