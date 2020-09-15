@@ -40,7 +40,7 @@ namespace ProseTutorial
             _prose = ConfigureSynthesis();
             var menu = @"Select one of the options: 
 1 - provide new example
-2 - run top synthesized program on a new input
+2 - run synthesized program on a new input
 3 - exit";
             var option = 0;
             while (option != 3)
@@ -119,8 +119,7 @@ namespace ProseTutorial
             var spec = new ExampleSpec(Examples);
             Console.Out.WriteLine("Learning a program for examples:");
             foreach (KeyValuePair<State, object> example in Examples)
-            {
-                //var exampleList = example.Key[rule.Body[0]] as List<int>;
+            {                
                 Console.WriteLine("\"{0}\" -> \"{1}\"", example.Key.Bindings.First().Value.ToString(), example.Value);
             }
                 
@@ -130,17 +129,7 @@ namespace ProseTutorial
             if (topPrograms.IsEmpty) throw new Exception("No program was found for this specification.");
 
             _topProgram = topPrograms.RealizedPrograms.First();
-            Console.Out.WriteLine(_topProgram.PrintAST(ASTSerializationFormat.HumanReadable));
-            /*Console.Out.WriteLine("Top 4 learned programs:");
-            var counter = 1;
-            foreach (ProgramNode program in topPrograms.RealizedPrograms)
-            {
-                if (counter > 4) break;
-                Console.Out.WriteLine("==========================");
-                Console.Out.WriteLine("Program {0}: ", counter);
-                Console.Out.WriteLine(program.PrintAST(ASTSerializationFormat.HumanReadable));
-                counter++;
-            }*/
+            Console.Out.WriteLine(_topProgram.PrintAST(ASTSerializationFormat.HumanReadable));            
         }
 
         private static void RunOnNewInput()

@@ -6948,11 +6948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lipattan\\Documents\\MSR\\PROSE\\prose-master\\DslAuthoringTutorial\\arithmeticOperation\\ProseTutorial\\ProseTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\lipattan\\Documents\\GitHub\\Prose\\arithmeticOperation\\ProseTutorial\\ProseTutorial.csproj",
       "projectName": "ProseTutorial",
-      "projectPath": "C:\\Users\\lipattan\\Documents\\MSR\\PROSE\\prose-master\\DslAuthoringTutorial\\arithmeticOperation\\ProseTutorial\\ProseTutorial.csproj",
+      "projectPath": "C:\\Users\\lipattan\\Documents\\GitHub\\Prose\\arithmeticOperation\\ProseTutorial\\ProseTutorial.csproj",
       "packagesPath": "C:\\Users\\lipattan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lipattan\\Documents\\MSR\\PROSE\\prose-master\\DslAuthoringTutorial\\arithmeticOperation\\ProseTutorial\\obj\\",
+      "outputPath": "C:\\Users\\lipattan\\Documents\\GitHub\\Prose\\arithmeticOperation\\ProseTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

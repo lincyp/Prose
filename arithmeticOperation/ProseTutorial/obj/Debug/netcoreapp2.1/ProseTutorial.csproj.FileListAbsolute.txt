@@ -9,3 +9,14 @@ C:\Users\lipattan\Documents\MSR\PROSE\prose-master\DslAuthoringTutorial\arithmet
 C:\Users\lipattan\Documents\MSR\PROSE\prose-master\DslAuthoringTutorial\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.AssemblyInfo.cs
 C:\Users\lipattan\Documents\MSR\PROSE\prose-master\DslAuthoringTutorial\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.dll
 C:\Users\lipattan\Documents\MSR\PROSE\prose-master\DslAuthoringTutorial\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.pdb
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\bin\Debug\netcoreapp2.1\ProseTutorial.deps.json
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\bin\Debug\netcoreapp2.1\ProseTutorial.runtimeconfig.json
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\bin\Debug\netcoreapp2.1\ProseTutorial.runtimeconfig.dev.json
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\bin\Debug\netcoreapp2.1\ProseTutorial.dll
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\bin\Debug\netcoreapp2.1\ProseTutorial.pdb
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.csprojAssemblyReference.cache
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.csproj.CoreCompileInputs.cache
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.AssemblyInfoInputs.cache
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.AssemblyInfo.cs
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.dll
+C:\Users\lipattan\Documents\GitHub\Prose\arithmeticOperation\ProseTutorial\obj\Debug\netcoreapp2.1\ProseTutorial.pdb
